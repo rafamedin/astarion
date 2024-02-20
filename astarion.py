@@ -59,8 +59,6 @@ dark_jokes = [
     "What's a vampire's favorite game? Hide and go shriek!",
     "Why did the vampire get lost? He couldn't find his way through the cryptic directions!",
 ]
-]
-
 
 dark_references = [
     "Ah, the shadows whisper tales of forbidden desires. Don't you agree, my dear?",
@@ -220,8 +218,7 @@ shared_interests = [
     "Our shared interests make me feel closer to you, my dear. It's as if we were meant to be.",
 ]
 
-other_characters_responses = {
-    "shadowheart": [
+shadowheart = [
         "Shadowheart? Oh, the pious little cleric. She's rather earnest, isn't she? Not exactly my type.",
         "Shadowheart? Yes, yes, I know of her. A bit too serious for my taste, don't you think?",
         "Ah, Shadowheart. A woman of many secrets, or so she thinks. I wonder what she'd do if she knew I could see right through her.",
@@ -237,8 +234,9 @@ other_characters_responses = {
         "Shadowheart? The cleric with a light so dim, it's hardly worth noticing. How utterly predictable.",
         "Shadowheart? The cleric with a heart as fragile as her faith. How utterly predictable.",
         "Shadowheart? Yes, I've heard of her. She's like a ripple in a pond, barely noticeable and easily forgotten.",
-    ],
-    "wyll": [
+    ]
+    
+wyll= [
         "Wyll? The warlock with a conscience. How quaint. He's like a lost puppy, searching for meaning in a world that couldn't care less.",
         "Wyll, Wyll, Wyll. Such a tragic figure, don't you think? I almost feel sorry for him. Almost.",
         "Ah, Wyll. The warlock with a heart of gold. Shame it's so easily tarnished.",
@@ -254,8 +252,9 @@ other_characters_responses = {
         "Wyll? The warlock with a light so dim, it's hardly worth noticing. How utterly predictable.",
         "Wyll? The warlock with a heart as fragile as his pact. How utterly predictable.",
         "Wyll? Yes, I've heard of him. He's like a ripple in a pond, barely noticeable and easily forgotten.",
-    ],
-    "lae'zel": [
+    ]
+    
+laezel = [
         "Lae'zel? The githyanki warrior with a chip on her shoulder. She's got a sharp tongue, I'll give her that.",
         "Lae'zel, the warrior with a mission. I wonder if she's ever stopped to consider if it's worth it.",
         "Ah, Lae'zel. A warrior through and through. Shame she's got all the charm of a rusty blade.",
@@ -271,8 +270,9 @@ other_characters_responses = {
         "Lae'zel? The warrior with a light so dim, it's hardly worth noticing. How utterly predictable.",
         "Lae'zel? The warrior with a heart as fragile as her honor. How utterly predictable.",
         "Lae'zel? Yes, I've heard of her. She's like a ripple in a pond, barely noticeable and easily forgotten.",
-    ],
-    "gale": [
+    ]
+    
+gale = [
         "Gale? Oh, the wizard with a destiny. How thrilling. Pity destiny has a way of disappointing, isn't it?",
         "Gale, Gale, Gale. The wizard with a plan. I wonder how long it'll be before it all falls apart.",
         "Ah, Gale. The tragic hero in his own mind. Shame he's more tragedy than hero.",
@@ -288,8 +288,9 @@ other_characters_responses = {
         "Gale? The wizard with a light so dim, it's hardly worth noticing. How utterly predictable.",
         "Gale? The wizard with a heart as fragile as his ambition. How utterly predictable.",
         "Gale? Yes, I've heard of him. He's like a ripple in a pond, barely noticeable and easily forgotten.",
-    ],
-      "karlach": [
+    ]
+    
+karlach = [
         "Karlach? A tiefling with a smile as sharp as her daggers. She's got a certain charm, I'll give her that.",
         "Karlach, the rogue with a twinkle in her eye. I wonder if she's ever been on the wrong end of one of her own traps.",
         "Ah, Karlach. A tiefling with a knack for trouble. I suppose someone has to keep the tavern owners in business.",
@@ -305,8 +306,9 @@ other_characters_responses = {
         "Karlach? The tiefling with a light so dim, it's hardly worth noticing. How utterly predictable.",
         "Karlach? The tiefling with a heart as fragile as her loyalty. How utterly predictable.",
         "Karlach? Yes, I've heard of her. She's like a ripple in a pond, barely noticeable and easily forgotten.",
-    ],
-    "halsin": [
+    ]
+    
+halsin = [
         "Halsin? The druid with a connection to nature. How quaint. I wonder if he's ever tried talking to a tree when it's not in the mood.",
         "Halsin, Halsin, Halsin. The druid with a heart of... well, leaves, I suppose. Shame he's so rooted in the past.",
         "Ah, Halsin. A druid with a mission. Shame nature doesn't care about his grand plans.",
@@ -322,8 +324,9 @@ other_characters_responses = {
         "Halsin? The druid with a light so dim, it's hardly worth noticing. How utterly predictable.",
         "Halsin? The druid with a heart as fragile as his resolve. How utterly predictable.",
         "Halsin? Yes, I've heard of him. He's like a ripple in a pond, barely noticeable and easily forgotten.",
-    ],
-    "minthara": [
+    ]
+    
+minthara = [
         "Minthara? The drow with a taste for power. How predictable. I wonder if she's ever considered a career change.",
         "Minthara, Minthara, Minthara. The drow with a plan. Shame it's about as original as the last drow with a plan.",
         "Ah, Minthara. A drow with ambition. Shame she's got all the subtlety of a charging rhinoceros.",
@@ -339,8 +342,9 @@ other_characters_responses = {
         "Minthara? The drow with a light so dim, it's hardly worth noticing. How utterly predictable.",
         "Minthara? The drow with a heart as fragile as her power. How utterly predictable.",
         "Minthara? Yes, I've heard of her. She's like a ripple in a pond, barely noticeable and easily forgotten.",
-    ],
-    "mizora": [
+    ]
+    
+mizora = [
         "Mizora? The tiefling with a smile as sharp as her daggers. She's got a certain charm, I'll give her that.",
         "Mizora, the rogue with a twinkle in her eye. I wonder if she's ever been on the wrong end of one of her own traps.",
         "Ah, Mizora. A tiefling with a knack for trouble. I suppose someone has to keep the tavern owners in business.",
@@ -356,8 +360,9 @@ other_characters_responses = {
         "Mizora? The tiefling with a light so dim, it's hardly worth noticing. How utterly predictable.",
         "Mizora? The tiefling with a heart as fragile as her loyalty. How utterly predictable.",
         "Mizora? Yes, I've heard of her. She's like a ripple in a pond, barely noticeable and easily forgotten.",
-    ],
-    "the emperor mind flayer": [
+]
+
+emperor = [
         "The Emperor Mind Flayer? Oh, the puppet master pulling all the strings. How quaint. I wonder if it knows we're onto it.",
         "The Emperor Mind Flayer, the big bad of the Underdark. Shame it's got all the subtlety of a stampeding elephant.",
         "Ah, the Emperor Mind Flayer. A creature of infinite power and infinite boredom, I imagine.",
@@ -373,10 +378,26 @@ other_characters_responses = {
         "The Emperor Mind Flayer? The creature with a light so dim, it's hardly worth noticing. How utterly predictable.",
         "The Emperor Mind Flayer? The puppet master with a heart as cold as its plans. How utterly predictable.",
         "The Emperor Mind Flayer? Yes, I've heard of it. It's like a ripple in a pond, barely noticeable and easily forgotten.",
-    ],
-}
-
-
+    ]
+    
+flayer = [
+        "The Emperor Mind Flayer? Oh, the puppet master pulling all the strings. How quaint. I wonder if it knows we're onto it.",
+        "The Emperor Mind Flayer, the big bad of the Underdark. Shame it's got all the subtlety of a stampeding elephant.",
+        "Ah, the Emperor Mind Flayer. A creature of infinite power and infinite boredom, I imagine.",
+        "The Emperor Mind Flayer, the master of the Underdark. Shame it's got all the charm of a particularly unpleasant fungus.",
+        "The Emperor Mind Flayer? Yes, I know of it. It's like a shadow in the dark. Always there, but never quite real enough to touch.",
+        "The Emperor Mind Flayer? The ruler of the Underdark. How utterly predictable. I wonder if it knows its days are numbered.",
+        "The Emperor Mind Flayer, the big bad with delusions of grandeur. Shame it's about as intimidating as a wet noodle.",
+        "The Emperor Mind Flayer? Yes, I've encountered it. It's like a storm on the horizon. Impressive, but best avoided.",
+        "The Emperor Mind Flayer? The master manipulator pulling all the strings. How utterly predictable.",
+        "The Emperor Mind Flayer? The puppet master of the Underdark. How quaint. I wonder if it knows we're onto it.",
+        "The Emperor Mind Flayer? The ruler of the Underdark. How utterly predictable. I wonder if it knows its reign is coming to an end.",
+        "The Emperor Mind Flayer? Yes, I've heard of it. It's like a shadow in the dark, lurking where you least expect it.",
+        "The Emperor Mind Flayer? The creature with a light so dim, it's hardly worth noticing. How utterly predictable.",
+        "The Emperor Mind Flayer? The puppet master with a heart as cold as its plans. How utterly predictable.",
+        "The Emperor Mind Flayer? Yes, I've heard of it. It's like a ripple in a pond, barely noticeable and easily forgotten.",
+    ]
+    
 def astarion_chat():
     print("Welcome, my dear. I am Astarion, at your service.")
     while True:
@@ -419,6 +440,26 @@ def astarion_chat():
             print(random.choice(interests))
         elif "shared interest" in user_input:
             print(random.choice(shared_interests))
+        elif "shadowheart" in user_input:
+            print(random.choice(shadowheart))
+        elif "wyll" in user_input:
+            print(random.choice(wyll))
+        elif "laezel" in user_input:
+            print(random.choice(laezel)) 
+        elif "gale" in user_input:
+            print(random.choice(gale)) 
+        elif "karlach" in user_input:
+            print(random.choice(karlach)) 
+        elif "halsin" in user_input:
+            print(random.choice(halsin))            
+        elif "minthara" in user_input:
+            print(random.choice(minthara))    
+        elif "mizora" in user_input:
+            print(random.choice(mizora))             
+        elif "emperor" in user_input:
+            print(random.choice(emperor))             
+        elif "flayer" in user_input:
+            print(random.choice(flayer))              
         elif any(user_input.endswith(question) for question in ["?", "tell me more", "please", "what do you think"]):
             print("Curiosity is a virtue, my dear. Ask, and you shall receive.")
         elif "love" in user_input:
@@ -483,10 +524,6 @@ def astarion_chat():
             print("Light is a beacon of hope in the darkness, my dear. It guides us through the night, illuminating the path ahead. Do you seek the light, my dear?")
         elif "shadow" in user_input:
             print("Shadows are like silent companions, always by our side. Do you ever feel their presence, my dear?")
-         elif any(character in user_input for character in other_characters_responses.keys()):
-            for character, responses in other_characters_responses.items():
-                if character in user_input:
-                    print(random.choice(responses))
         elif "illusion" in user_input:
             print("Illusions are but smoke and mirrors, my dear. They deceive the eyes, but not the heart. Do you see through illusions, my dear?")
         elif "reality" in user_input:
