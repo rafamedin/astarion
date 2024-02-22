@@ -58,7 +58,3 @@ Chatbot: Flattery will get you everywhere, my dear. And I do mean everywhere.
 
 ## Conclusion
 This Baldur's Gate 3 inspired Python chatbot project provides users with an interactive and engaging experience, allowing them to converse with a character reminiscent of Astarion from the game. With features such as flirty responses, jealous remarks, and dark jokes, the chatbot captures the essence of Astarion's personality, providing users with an immersive and entertaining interaction.
-
----
-
-This documentation provides an overview of the project, its features, components, usage instructions, example interactions, potential future enhancements, and a conclusion summarizing the project's objectives and outcomes.
